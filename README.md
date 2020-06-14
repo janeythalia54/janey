@@ -1,2 +1,2 @@
 # janey
-janey repository
+janey repository for git commands demonstrations
